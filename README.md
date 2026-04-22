@@ -1,92 +1,86 @@
-<!-- manavendrayadav/manavendrayadav/README.md -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manavendra%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Security%20Engineer%20%E2%86%92%20Architect%20%7C%20Automation%20Builder&descAlign=50&descAlignY=62)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manavendra%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Security%20Engineer%20%7C%20Automation%20Architect&descAlign=50&descAlignY=62" width="100%"/>
-</div>
-
-<div align="center">
-  <p><i>Building enterprise security infrastructure and automation that eliminates manual work at scale.</i></p>
-  
-  <p>
-    <a href="https://linkedin.com/in/manavendrayadav" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:manavendrayadav2@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavendrayadav)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavendrayadav2@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
-Hello! I'm an **(ISC)² SSCP-certified L2 Security Engineer @ Norsk Hydro**, with over 3 years of hands-on experience helping organizations strengthen their security posture through an optimal mix of tools, automation, and processes. I'm currently responsible for securing **5,000+ servers** within a global enterprise setup.
+**(ISC)² SSCP-certified Security Engineer → Architect**, with 4 years of hands-on experience building and securing enterprise-scale infrastructure at **Norsk Hydro** — a global industrial company operating across 40+ countries.
 
-I am particularly passionate about **Security Automation**. My day-to-day involves deploying log forwarders, administering access controls, fine-tuning security policies, and building robust automation solutions that save hours of manual review.
+My work sits at the intersection of security operations and automation engineering. I don't just run tools — I build the pipelines that make security work at scale.
 
-- 🔭 I’m currently focused on: **Enterprise Security Architecture, Log Management (Splunk/Syslog-ng), and API-driven workflows.**
-- 💡 I’ve recently built: **A Python + Streamlit app that integrates natively with ServiceNow for bulk auto-ticketing vulnerabilities.**
-- 🤝 Open for: **Security Architect roles, Senior Security Engineer opportunities, and automation consulting.**
+- 🔭 Currently focused on: **Enterprise Security Architecture, SIEM engineering, and API-driven security automation**
+- 🛠️ Recently shipped: **A Python + Streamlit app that replaced 1,500+ minutes of monthly manual work with a fully automated ServiceNow ticketing pipeline**
+- 🎯 Next move: **Security Architect — designing systems, not just operating them**
+- 🤝 Open to: **Security Architect roles, Senior Security Engineer opportunities, and security automation consulting**
 
 ---
 
 ### ⚡ Professional Impact
 
-- **Security Automation:** Engineered a pipeline that integrates ServiceNow via API, reducing vulnerability ticket creation time from hours to seconds (saving **1,500+ minutes/month**).
-- **Compliance & Reporting:** Led compliance initiatives across a vast network of servers, achieving a **30% improvement** in KPI metrics using advanced Splunk dashboards, alerting pipelines, and KQL/SQL queries.
-- **Enterprise Tooling:** Deployed, managed, and audited 15+ complex security platforms including **Zscaler ZIA/ZPA**, **Claroty SRA/EMC** (ICS/OT), **Rapid7 InsightVM**, and **CrowdStrike/Defender** (EDR/XDR). 
-- **System Hardening:** Engineered reliable PowerShell and Bash scripts to handle software deployments, rigorous system hardening, and certificate expiry checks.
+| What I did | Outcome |
+|---|---|
+| Built a Python + Streamlit → ServiceNow API automation pipeline | **1,500+ minutes saved per month** — ticket creation went from hours to seconds |
+| Led security compliance across 5,000+ servers with Splunk dashboards and KQL/SPL alerting | **30% improvement** in KPI metrics |
+| Deployed and administered 15+ enterprise security platforms across a global estate | Zscaler ZIA/ZPA · Claroty SRA/EMC · Rapid7 · CrowdStrike · Defender · Palo Alto NGFW |
+| Automated Splunk Universal Forwarder deployment across Windows and Linux server fleets | Cross-platform scripts handling OS detection, gMSA config, and service management |
 
 ---
 
-### 🛠️ Core Competencies
+### 🛠️ Core Stack
 
-**Security Operations & SIEM**  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF0000?style=flat-square&logo=crowdstrike&logoColor=white) ![Microsoft Defender](https://img.shields.io/badge/Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Rapid7](https://img.shields.io/badge/Rapid7-EA5B0C?style=flat-square)  
-*Splunk (SPL, Dashboards, Alerting), Rapid7 InsightVM, Secureworks XDR/EDR, Syslog-ng, Zabbix*
+**Security Operations & SIEM**
 
-**Network, Cloud & ICS/OT**  
-![Zscaler](https://img.shields.io/badge/Zscaler-0072CE?style=flat-square&logo=zscaler&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo_Alto-F26522?style=flat-square&logo=paloaltonetworks&logoColor=white)  
-*Zscaler ZIA/ZPA (SASE, SSL Inspection, Zero Trust), Palo Alto NGFW, Claroty SRA & EMC*
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://splunk.com)
+[![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF0000?style=flat-square&logo=crowdstrike&logoColor=white)](https://crowdstrike.com)
+[![Microsoft Defender](https://img.shields.io/badge/Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://microsoft.com)
+[![Rapid7](https://img.shields.io/badge/Rapid7-EA5B0C?style=flat-square)](https://rapid7.com)
 
-**Automation & Scripting**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
-*Python, Pandas, SQL, KQL, ServiceNow APIs, Shell Scripting*
+*Splunk (SPL, dashboards, alerting, log onboarding) · Rapid7 InsightVM · Secureworks XDR/EDR · Syslog-ng · Zabbix*
+
+**Network, Cloud & ICS/OT**
+
+[![Zscaler](https://img.shields.io/badge/Zscaler-0072CE?style=flat-square&logo=zscaler&logoColor=white)](https://zscaler.com)
+[![Palo Alto](https://img.shields.io/badge/Palo_Alto-F26522?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://paloaltonetworks.com)
+
+*Zscaler ZIA/ZPA (SASE, SSL inspection, tunnel config, zero trust) · Palo Alto NGFW · Claroty SRA & EMC (ICS/OT)*
+
+**Automation & Scripting**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://gnu.org/software/bash)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+*Python · Pandas · SQL · KQL · ServiceNow REST APIs · Shell scripting*
 
 ---
 
-### 📦 Featured Open Source Work
+### 📦 Repositories
 
-| Project | Description |
-|---------|-------------|
-| 🔗 **[vuln-ticket-automator](https://github.com/manavendrayadav/vuln-ticket-automator)** | Python + Streamlit app for bulk vulnerability ticketing to ServiceNow via REST API. |
-| 🔗 **[splunk-security-toolkit](https://github.com/manavendrayadav/splunk-security-toolkit)** | Curated SPL queries, dashboards, and advanced alert rule configurations. |
-| 🔗 **[zscaler-policy-auditor](https://github.com/manavendrayadav/zscaler-policy-auditor)** | Scripts to programmatically audit ZIA/ZPA policies and SSL inspection coverage. |
-| 🔗 **[windows-hardening-scripts](https://github.com/manavendrayadav/windows-hardening-scripts)** | Automated PowerShell modules for OS hardening, patch auditing, and compliance validation. |
+| Project | What it does | Stack |
+|---|---|---|
+| [vuln-ticket-automator](https://github.com/manavendrayadav/vuln-ticket-automator) | Bulk vulnerability ticketing to ServiceNow via REST API — reduced 1,500+ min/month of manual work to seconds | Python · Streamlit · Pandas |
+| [splunk-uf-installer](https://github.com/manavendrayadav/splunk-uf-installer) | Automated Splunk Universal Forwarder deployment across Windows Server (2012–2025) and Linux — OS detection, gMSA config, service management | PowerShell · Bash |
+| [soc-automation-platform](https://github.com/manavendrayadav/soc-automation-platform) | SOC automation platform — detection rules, ingestion pipelines, and API automation modules | Python |
+| [Drive3](https://github.com/manavendrayadav/Drive3) | Google Drive management app built with Gemini AI | TypeScript · React |
+
+> 🔧 Coming soon: `splunk-security-toolkit` · `zscaler-policy-auditor` · `windows-hardening-scripts`
 
 ---
 
-### 🏆 Certifications & Awards
+### 🏆 Certifications & Recognition
 
-- **(ISC)² SSCP** *(Systems Security Certified Practitioner)*
-- **Zscaler ZCCA-IA**
+- **(ISC)² SSCP** — Systems Security Certified Practitioner
+- **Zscaler ZCCA-IA** — Zero Trust & Cloud Security
 - **Splunk Core Certified**
 - **Microsoft Security Essentials**
-- **EC-Council Certifications**
-- 🌟 **Rank 3rd** - CyberXchange Hackathon
-- 🌟 **White and Gold Elegant Academic Award**
+- **EC-Council** certifications
+- 🥉 **Rank 3rd** — CyberXchange Hackathon
+- 🏅 White and Gold Elegant Academic Award
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manavendrayadav&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavendrayadav&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-<p align="center">
-  <i>"Focusing on the optimal mix of tools, automation, and processes."</i>
-</p>
+*"Security is only as strong as the systems you build to enforce it."*
