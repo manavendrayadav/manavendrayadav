@@ -1,11 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manavendra%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Security%20Engineer%20%E2%86%92%20Architect%20%7C%20Automation%20Builder&descAlign=50&descAlignY=62)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manavendra%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Security%20Engineer%20%E2%86%92%20Architect%20%7C%20Automation%20Builder&descAlign=50&descAlignY=62" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavendrayadav)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavendrayadav2@gmail.com)
+  <img src="https://komarev.com/ghpvc/?username=manavendrayadav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="manavendrayadav profile views" />
+</div>
 
 ---
 
-### 👨💻 About Me
+### 👨‍💻 About Me
 
 **(ISC)² SSCP-certified Security Engineer → Architect**, with 4 years of hands-on experience building and securing enterprise-scale infrastructure at **Norsk Hydro** — a global industrial company operating across 40+ countries.
 
@@ -15,6 +16,11 @@ My work sits at the intersection of security operations and automation engineeri
 - 🛠️ Recently shipped: **A Python + Streamlit app that replaced 1,500+ minutes of monthly manual work with a fully automated ServiceNow ticketing pipeline**
 - 🎯 Next move: **Security Architect — designing systems, not just operating them**
 - 🤝 Open to: **Security Architect roles, Senior Security Engineer opportunities, and security automation consulting**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manavendrayadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavendrayadav&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
@@ -62,10 +68,10 @@ My work sits at the intersection of security operations and automation engineeri
 
 | Project | What it does | Stack |
 |---|---|---|
-| [vuln-ticket-automator](https://github.com/manavendrayadav/vuln-ticket-automator) | Bulk vulnerability ticketing to ServiceNow via REST API — reduced 1,500+ min/month of manual work to seconds | Python · Streamlit · Pandas |
-| [splunk-uf-installer](https://github.com/manavendrayadav/splunk-uf-installer) | Automated Splunk Universal Forwarder deployment across Windows Server (2012–2025) and Linux — OS detection, gMSA config, service management | PowerShell · Bash |
-| [soc-automation-platform](https://github.com/manavendrayadav/soc-automation-platform) | SOC automation platform — detection rules, ingestion pipelines, and API automation modules | Python |
-| [Drive3](https://github.com/manavendrayadav/Drive3) | Google Drive management app built with Gemini AI | TypeScript · React |
+| [DVLA-VITE](https://github.com/manavendrayadav/DVLA-VITE) | **Damn Vulnerable LLM Agent** — A deliberately insecure LLM agent demonstrating real-world attack classes from the OWASP LLM Top 10 for CTF/Educational use. | Python · Streamlit · LangChain |
+| [OWASP_LLM_Top10_Presentation](https://github.com/manavendrayadav/OWASP_LLM_Top10_Presentation) | Comprehensive presentation and slide deck covering the latest OWASP Top 10 vulnerabilities for Large Language Models (LLMs). | Security Education · Presentation |
+| [vuln-ticket-automator](https://github.com/manavendrayadav/vuln-ticket-automator) | Bulk vulnerability ticketing to ServiceNow via REST API — reduced 1,500+ min/month of manual work to seconds. | Python · Streamlit · Pandas |
+| [splunk-uf-installer](https://github.com/manavendrayadav/splunk-uf-installer) | Automated Splunk Universal Forwarder deployment across Windows Server and Linux — OS detection, gMSA config, service management. | PowerShell · Bash |
 
 > 🔧 Coming soon: `splunk-security-toolkit` · `zscaler-policy-auditor` · `windows-hardening-scripts`
 
@@ -83,4 +89,14 @@ My work sits at the intersection of security operations and automation engineeri
 
 ---
 
-*"Security is only as strong as the systems you build to enforce it."*
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/manavendrayadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manavendrayadav2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br>
+<div align="center">
+  <em>"Security is only as strong as the systems you build to enforce it."</em>
+</div>
